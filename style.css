@@ -134,7 +134,8 @@ body {
 }
 
 #bar {
-  border-top: 5px solid navy;
+  border: 5px solid navy;
+  
 }
 
 td {
@@ -160,4 +161,9 @@ table{
   width: 390px;
   height: 250px;
   border: 3px solid rgb(12, 33, 97);
+}
+
+#zdjecia{
+    
+  text-align:center;
 }

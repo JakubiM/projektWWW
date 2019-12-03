@@ -115,7 +115,7 @@ body {
   }
   
   #bar {
-    border-top: 5px solid navy;
+    border: 5px solid navy;
   }
   
   td {
