@@ -1,0 +1,163 @@
+body {
+  background-color: rgb(25, 36, 131);
+  width: 1600px;
+  display: block;
+  margin: auto;
+
+}
+
+#main {
+  width: 1000px;
+  margin: auto;
+  background-color: rgb(97, 110, 228);
+  display: block;
+  border: 10px solid rgb(2, 10, 80);
+  float: center;
+}
+
+#header {
+  width: 40%;
+  display: block;
+  margin-right: 50%;
+  margin-left: 10%;
+  text-shadow: 1px 2px white;
+
+}
+
+#navigationbar {
+  width: 80%;
+  height: 100px;
+  margin: auto;
+  align-items: center;
+
+}
+
+#navigationbar ul {
+  float: left;
+  width: 100%;
+  padding-top: 1%;
+  margin: auto;
+  list-style: none;
+  width: px;
+}
+
+
+#navigationbar li a {
+  display: block;
+  float: left;
+  text-align: center;
+  font-size: 1.2em;
+  width: 130px;
+  height: 50px;
+  text-decoration: none;
+  color: aqua;
+  background-color: blue;
+  padding: 15px 15px;
+  margin: 0px 1px 1px 0px;
+  border: 1px solid navy;
+  border-radius: 3px;
+  
+
+}
+
+#navigationbar li a:hover {
+  color: blue;
+  background: aqua;
+  border: 1px solid blue;
+}
+
+#content {
+  width: 80%;
+  margin: auto;
+  display: block;
+  font-family: fantasy;
+  align-items: center;
+  text-align: center;
+
+}
+
+#foot {
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#foot p {
+  text-align: right;
+}
+
+#line1 {
+  height: 250px;
+}
+
+#line1 #left {
+  float: left;
+  width: 60%;
+}
+
+#line1 #riht {
+  float: right;
+  width: 40%;
+  padding-left: 10px;
+
+}
+
+#line1 #right img {
+  height: 200px;
+  width: 290px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#line2 {
+  height: 250px;
+}
+
+#line2 #left {
+  float: left;
+  width: 40%
+}
+
+#line2 #right {
+  float: right;
+  widows: 60%;
+}
+
+#line2 #left img {
+  height: 200px;
+  width: 290px;
+
+}
+
+#version {
+  border-top: 2px dashed black;
+}
+
+#bar {
+  border-top: 5px solid navy;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table{
+  text-align: center;
+  border: 1px black solid;
+  border-collapse: collapse;
+  margin: auto;
+  background-color:rgb(19, 122, 206);
+  
+}
+#tr1{
+  background-color: rgb(3, 42, 75);
+  color: white;
+  font-weight: bold;
+}
+
+#foto{
+  width: 390px;
+  height: 250px;
+  border: 3px solid rgb(12, 33, 97);
+}
